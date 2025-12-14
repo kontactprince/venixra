@@ -1,0 +1,39 @@
+# Image Placeholders
+
+This directory should contain the following images for the website to work properly:
+
+## Required Images:
+
+### Homepage
+- hero-image.jpg (400x400px) - Your professional photo for the hero section
+- about-hero.jpg (500x400px) - Image for about page hero section
+- about-detail.jpg (500x400px) - Image for about page detail section
+- services-detail.jpg (500x400px) - Image for services page
+
+### Portfolio
+- portfolio/project1.jpg (400x300px) - Sample portfolio project 1
+- portfolio/project2.jpg (400x300px) - Sample portfolio project 2
+- portfolio/project3.jpg (400x300px) - Sample portfolio project 3
+
+### About Page
+- about-hero.jpg (500x400px) - Hero section image
+- about-detail.jpg (500x400px) - Detail section image
+
+## Image Guidelines:
+- Use high-quality images
+- Optimize for web (compress without losing quality)
+- Use consistent aspect ratios
+- Ensure images are professional and relevant
+- Consider using stock photos or your own professional photos
+
+## Free Stock Photo Resources:
+- Unsplash.com
+- Pexels.com
+- Pixabay.com
+- Freepik.com
+
+## Image Optimization Tools:
+- TinyPNG.com
+- Compressor.io
+- ImageOptim (Mac)
+- GIMP (Free alternative to Photoshop)
