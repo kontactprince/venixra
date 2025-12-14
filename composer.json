@@ -1,0 +1,22 @@
+{
+    "name": "freelancer/personal-website",
+    "description": "Dynamic personal freelancing website with admin panel",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "phpmailer/phpmailer": "^6.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "php -r \"if (!file_exists('vendor/autoload.php')) { echo 'Composer autoloader not found. Please run composer install.' . PHP_EOL; exit(1); }\""
+        ]
+    }
+}
